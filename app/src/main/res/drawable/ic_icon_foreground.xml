@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108"
+    android:tint="#FFFFFF">
+  <group android:scaleX="0.09876739"
+      android:scaleY="0.09876739"
+      android:translateX="29.16"
+      android:translateY="45.822754">
+    <group android:translateY="130.35938">
+      <path android:pathData="M13,-0L13,-103L27,-103L27,-0L13,-0Z"
+          android:fillColor="#FFFFFF"/>
+      <path android:pathData="M77,0L77,-91L43,-91L43,-103L125,-103L125,-91L91,-91L91,0L77,0Z"
+          android:fillColor="#FFFFFF"/>
+      <path android:pathData="M133,-31L133,-43L172,-43L172,-31L133,-31Z"
+          android:fillColor="#FFFFFF"/>
+      <path android:pathData="M188,0L188,-103L202,-103L202,-53.71875L251.32812,-103L271,-103L227.23438,-60.515625L273,0L255.70312,0L217.98438,-51.515625L202,-36L202,0L188,0Z"
+          android:fillColor="#FFFFFF"/>
+      <path android:pathData="M279,-50.125Q279,-75.875,292.70312,-90.4375Q306.40625,-105,328.0625,-105Q342.26562,-105,353.65625,-98.15625Q365.04688,-91.3125,371.01562,-79.078125Q377,-66.84375,377,-51.328125Q377,-35.59375,370.70312,-23.171875Q364.42188,-10.765625,352.875,-4.375Q341.34375,2,328,2Q313.53125,2,302.14062,-5.046875Q290.75,-12.109375,284.875,-24.3125Q279,-36.515625,279,-50.125ZM293,-49.953125Q293,-31.375,302.95312,-20.6875Q312.90625,-10,327.9375,-10Q343.23438,-10,353.10938,-20.796875Q363,-31.59375,363,-51.4375Q363,-63.984375,358.76562,-73.328125Q354.54688,-82.6875,346.40625,-87.84375Q338.26562,-93,328.14062,-93Q313.75,-93,303.375,-83.078125Q293,-73.15625,293,-49.953125Z"
+          android:fillColor="#FFFFFF"/>
+      <path android:pathData="M394,0L394,-103L415.375,-103L438.78125,-30.015625Q442.01562,-19.828125,443.5,-14.765625Q445.14062,-20.390625,448.64062,-31.28125L471.75,-103L493,-103L493,0L479,0L479,-87L451.125,0L435.75,0L408,-87L408,0L394,0Z"
+          android:fillColor="#FFFFFF"/>
+    </group>
+  </group>
+</vector>
